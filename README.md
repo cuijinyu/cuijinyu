@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Tencent Cloud
+
 小小一只前端工程师
+
 喜欢不止前端，喜欢各种软件编程
+
+

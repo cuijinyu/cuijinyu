@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![cuijinyu's github stats](https://github-readme-stats.vercel.app/api?username=cuijinyu)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuijinyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+🔭 I’m currently working on Tencent Cloud
+小小一只前端工程师
+喜欢不止前端，喜欢各种软件编程
